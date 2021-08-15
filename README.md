@@ -5,6 +5,8 @@ Social Medias
 <a href = 'https://www.linkedin.com/in/francis-lance-jumawan/'><img src = 'https://image.flaticon.com/icons/png/512/174/174857.png' height = 15px></img> Francis Lance Jumawan </a>
 <br>
 <a href = 'https://twitter.com/Lancis_Jum'><img src = 'https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png' height = 15px></img> Lancis_Jum </a>
+<br>
+<a href = 'https://www.instagram.com/lancis_zero/'><img src = 'http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png' height = 15px></img> Lancis_Jum </a>
 <hr>
 🔭 I’m currently working on ... 
 <br>
