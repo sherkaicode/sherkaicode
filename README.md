@@ -1,7 +1,8 @@
 Social Medias
 <hr>
 <br>
-<a href = 'https://www.linkedin.com/in/francis-lance-jumawan/'><img src = 'https://image.flaticon.com/icons/png/512/174/174857.png' height = 15px design = float></img> Francis Lance Jumawan </a>
+<a href = 'https://www.linkedin.com/in/francis-lance-jumawan/'><img src = 'https://image.flaticon.com/icons/png/512/174/174857.png' height = 15px></img> Francis Lance Jumawan </a>
+<a href = 'https://twitter.com/Lancis_Jum'><img src = 'https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png' height = 15px></img> Lancis_Jum </a>
 <hr>
 🔭 I’m currently working on ... 
 <br>
