@@ -1,7 +1,7 @@
 Social Medias
 <hr>
 <br>
-<a href = #><img src = 'https://image.flaticon.com/icons/png/512/174/174857.png' height = 15px design = float></img> asdasd </a>
+<a href = 'https://www.linkedin.com/in/francis-lance-jumawan/'><img src = 'https://image.flaticon.com/icons/png/512/174/174857.png' height = 15px design = float></img> Francis Lance Jumawan </a>
 <hr>
 🔭 I’m currently working on ... 
 <br>
