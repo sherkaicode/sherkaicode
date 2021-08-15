@@ -1,6 +1,5 @@
-<body bgcolor = 'white'>
+
 Social Medias
-<hr>
 <br>
 <a href = 'https://www.linkedin.com/in/francis-lance-jumawan/'><img src = 'https://image.flaticon.com/icons/png/512/174/174857.png' height = 15px></img> Francis Lance Jumawan </a>
 <br>
@@ -26,7 +25,7 @@ Social Medias
 👯 I’m looking to contribute to ...
 <br>
 <ul> 
-        <li>> The renewable industry  </li>
+        <li> The renewable energy industry  </li>
 </ul>
 <hr>
 🤔 I’m looking for help with ...
@@ -60,4 +59,3 @@ Social Medias
         <li>I am made up of atoms</li>
 </ul>
 <hr>
-</body>
