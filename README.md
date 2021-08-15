@@ -1,7 +1,7 @@
 Social Medias
 <hr>
 <br>
-<a href = #>asdasd <img src = 'https://image.flaticon.com/icons/png/512/174/174857.png' height = 15px design = float></img></a>
+<a href = #><img src = 'https://image.flaticon.com/icons/png/512/174/174857.png' height = 15px design = float></img> asdasd </a>
 <hr>
 🔭 I’m currently working on ... 
 <br>
