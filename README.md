@@ -1,3 +1,4 @@
+<body bgcolor = 'white'>
 Social Medias
 <hr>
 <br>
@@ -57,3 +58,4 @@ Social Medias
         <li>I am made up of atoms</li>
 </ul>
 <hr>
+</body>
