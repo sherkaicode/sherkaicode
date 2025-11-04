@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at University of the Philippines Diliman National Institute of Physics<br>🤝 I’m currently a member at the High Energy Physics - Phenomenology Lab<br>🌱 I’m currently learning about python simulation (ROOT, PYTHIA, MADGRAPH) and particle physics<br>💬 Ask me about anything<br>⚡ Fun fact: I read and listen to cafe noises 
+🔭 I’m currently studying at University of the Philippines Diliman National Institute of Physics<br>🤝 I’m a member at the High Energy Physics - Phenomenology Lab<br>🌱 I'm currently exploring the advantages of Machine Learning in Beyond Standard Model Physics Analyses <br>💬 Ask me about anything<br>⚡ Fun fact: My favorite food and drink is rice and water
 
 
 ## 🌐 Socials:
