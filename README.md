@@ -35,5 +35,4 @@
 ---
 
 # 📫 Contact Me:
-[![Email](https://img.shields.io/badge/Email-fc3c3c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francis.lance.jumawan@cern.ch)  
-📧 **francis.lance.jumawan@cern.ch**
+📧 **Email:** [francis.lance.jumawan@cern.ch](mailto:francis.lance.jumawan@cern.ch)
