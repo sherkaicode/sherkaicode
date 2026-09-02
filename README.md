@@ -1,9 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently studying at University of the Philippines Diliman National Institute of Physics  
-🤝 I’m a member at the High Energy Physics - Phenomenology Lab  
-🌱 I'm currently exploring the advantages of Machine Learning in Beyond Standard Model Physics Analyses  
-💬 Ask me about anything  
-⚡ Fun fact: My favorite food and drink is rice and water  
+🔭 I’m an Erasmus Mundus Scholar pursuing the **IMAPP Joint Master's Degree ('26–'28)** 🇪🇺, currently at Université Clermont Auvergne (France).  
+🎓 I hold a B.Sc. in Physics from the National Institute of Physics - University of the Philippines Diliman.  
+👨‍🔬 Previously, I was a **CERN Summer Student '25** and a researcher at the High Energy Physics - Phenomenology Lab.  
+🌱 I'm currently exploring the advantages of Machine Learning in Beyond Standard Model (BSM) Physics Analyses.  
+💬 Ask me about: High energy physics, ML applications, life at CERN, or the Erasmus Mundus scholarship!  
+⚡ Fun fact: My favorite food and drink is rice and water.  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lancisjum) 
