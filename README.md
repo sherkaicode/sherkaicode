@@ -97,4 +97,4 @@ Experience with particle-physics simulation and analysis workflows, including **
 
 ---
 
-### ⚡ *“Exploring the intersection of fundamental physics, computation, and machine learning.”*
+### ⚡ *“Explorer of Data, Life, and Particles”*
